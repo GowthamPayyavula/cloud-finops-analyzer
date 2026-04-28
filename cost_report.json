@@ -1,0 +1,16 @@
+{
+    "generated_time": "2026-03-17 08:55:30.769695",
+    "service_cost": {
+        "EC2": 155,
+        "RDS": 62,
+        "S3": 18
+    },
+    "idle_instances": [
+        "i-101"
+    ],
+    "recommendations": [
+        "stop idle instances",
+        "resize compute resources",
+        "remove unused storage"
+    ]
+}
